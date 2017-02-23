@@ -1,0 +1,5 @@
+相關的src在ClientGui裡面
+這份Code比較麻煩，因為需要先import好相關的package才能Compile
+需要的套件有SWING, SWT, ecplice也必須要有相關的版本
+就麻煩助教要先將相關套件安裝好之後再跑了
+抱歉造成助教您的麻煩了ＱＱ
